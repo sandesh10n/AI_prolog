@@ -1,2 +1,2 @@
 # AI_prolog
-This is  my AI lan done in Prolog.
+This is  my AI lab done in Prolog.
